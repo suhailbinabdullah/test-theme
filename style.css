@@ -1,0 +1,20 @@
+/**
+ * Theme Name:        Test Theme
+ * Theme URI:         https://example.com/fabled-sunset
+ * Description:       Custom theme description...
+ * Version:           1.0.0
+ * Author:            Suhail
+ * Author URI:        https://example.com
+ * Tags:              block-patterns, full-site-editing
+ * Text Domain:       fabled-sunset
+ * License:           GNU General Public License v2.0 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ */
+body {
+  background-color: aqua;
+}
+
+div {
+  padding: 5px;
+  background-color: brown;
+}
